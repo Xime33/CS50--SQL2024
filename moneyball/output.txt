@@ -1,0 +1,14 @@
++------------+------------+-----------------+
+| first_name | last_name  | dollars per hit |
++------------+------------+-----------------+
+| A. J.      | Burnett    | 62500           |
+| A. J.      | Hinch      | 13684           |
+| A. J.      | Pierzynski | 1909            |
+| Aaron      | Boone      | 3571            |
+| Aaron      | Fultz      | 110000          |
+| Aaron      | Sele       | 7000000         |
+| Abraham    | Nunez      | 3481            |
+| Adam       | Eaton      | 58750           |
+| Adam       | Kennedy    | 2170            |
+| Adam       | Piatt      | 10875           |
++------------+------------+-----------------+
